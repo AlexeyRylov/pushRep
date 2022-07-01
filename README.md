@@ -8,3 +8,5 @@
 2. Ну ладно, давай сделаем
 
 LETS CREATE CONFLICT?
+
+LETS DO NEW CONFLICT
